@@ -1,0 +1,2 @@
+# promise_test
+针对promise中不太能精准确定的场景做一个测试的代码
